@@ -12,7 +12,7 @@ Hi, I'm **Cibiraj K** — a passionate **Electronics & Computer Engineering stud
 ---
 
 ## 🌐 Socials:
-[LinkedIn](https://www.linkedin.com/) | [Medium](https://medium.com/) | [GitHub](https://github.com/Cibiraj)
+[LinkedIn]((https://www.linkedin.com/in/cibiraj-k-snsinstitutions/)) |  [GitHub]((https://github.com/CibirajK))
 
 ---
 
@@ -32,4 +32,4 @@ Hi, I'm **Cibiraj K** — a passionate **Electronics & Computer Engineering stud
 ---
 
 ## 🧠 HackerRank Stats:
-Check out my coding profile on [HackerRank](https://www.hackerrank.com/).  
+Check out my coding profile on [HackerRank](https://www.hackerrank.com/profile/cibiraj_k_ece_21).  
