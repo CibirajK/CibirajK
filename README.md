@@ -12,7 +12,7 @@ Hi, I'm **Cibiraj K** — a passionate **Electronics & Communication Engineering
 ---
 
 ## 🌐 Socials:
-[LinkedIn]((https://www.linkedin.com/in/cibiraj-k-snsinstitutions/)) |  [GitHub]((https://github.com/CibirajK))
+[LinkedIn](https://www.linkedin.com/in/cibiraj-k-snsinstitutions/) |  [GitHub](https://github.com/CibirajK)
 
 ---
 
@@ -23,8 +23,6 @@ Hi, I'm **Cibiraj K** — a passionate **Electronics & Communication Engineering
 - **Tools:** Git | GitHub | VS Code | MATLAB  
 - **Databases:** MySQL | SQLite  
 
-
----
 
 ## 🧠 HackerRank Stats:
 Check out my coding profile on [HackerRank](https://www.hackerrank.com/profile/cibiraj_k_ece_21).  
