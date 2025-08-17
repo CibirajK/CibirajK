@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-Hi, I'm **Cibiraj K** — a passionate **Electronics & Computer Engineering student** exploring the intersection of  
+Hi, I'm **Cibiraj K** — a passionate **Electronics & Communication Engineering student** exploring the intersection of  
 **Embedded Systems, Artificial Intelligence, and IoT solutions.**
 
 🔭 Currently working on: **Smart Glasses for the visually impaired**  
@@ -23,11 +23,6 @@ Hi, I'm **Cibiraj K** — a passionate **Electronics & Computer Engineering stud
 - **Tools:** Git | GitHub | VS Code | MATLAB  
 - **Databases:** MySQL | SQLite  
 
----
-
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cibiraj&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cibiraj&layout=compact&theme=radical)
 
 ---
 
